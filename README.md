@@ -1,36 +1,36 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+## ReelAI – Long Videos to Viral Reels
 
-## Getting Started
+ReelAI is a modern web application that transforms long-form videos such as lectures, podcasts, and workshops into short, engaging reel-style clips.
 
-First, run the development server:
+The platform helps creators extract the most important and high-impact moments from lengthy content and present them in a format optimized for today’s short-attention audiences.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🚀 What This Project Does
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Upload a long video (lecture, podcast, or talk)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Automatically analyze the content to find key moments
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Generate 4 short vertical reels from the same video
 
-## Learn More
+Display a concise summary of the original video
 
-To learn more about Next.js, take a look at the following resources:
+Present reels in a mobile-style, reel-scrolling interface
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Allow users to preview and download generated reels
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+✨ Key Features
 
-## Deploy on Vercel
+Smart Moment Detection
+Identifies important and impactful sections of a long video.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Reel Generation
+Converts selected moments into short, vertical reel-ready clips.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Dynamic Captions
+Each reel includes clean, readable captions for better engagement.
+
+Modern UI with 3D Experience
+Features a dark theme with blue accents and a 3D mobile phone model that plays reels inside it, simulating a real short-video app.
+
+Responsive Design
+Optimized for both desktop and mobile viewing.

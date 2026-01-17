@@ -6,31 +6,31 @@ The platform helps creators extract the most important and high-impact moments f
 
 ## 🚀 What This Project Does
 
-Upload a long video (lecture, podcast, or talk)
+1. Upload a long video (lecture, podcast, or talk)
 
-Automatically analyze the content to find key moments
+2. Automatically analyze the content to find key moments
 
-Generate 4 short vertical reels from the same video
+3. Generate 4 short vertical reels from the same video
 
-Display a concise summary of the original video
+4. Display a concise summary of the original video
 
-Present reels in a mobile-style, reel-scrolling interface
+5. Present reels in a mobile-style, reel-scrolling interface
 
-Allow users to preview and download generated reels
+6. Allow users to preview and download generated reels
 
-✨ Key Features
+## ✨ Key Features
 
-Smart Moment Detection
+1. Smart Moment Detection:
 Identifies important and impactful sections of a long video.
 
-Reel Generation
+2. Reel Generation:
 Converts selected moments into short, vertical reel-ready clips.
 
-Dynamic Captions
+3. Dynamic Captions:
 Each reel includes clean, readable captions for better engagement.
 
-Modern UI with 3D Experience
+4. Modern UI with 3D Experience:
 Features a dark theme with blue accents and a 3D mobile phone model that plays reels inside it, simulating a real short-video app.
 
-Responsive Design
+5. Responsive Design:
 Optimized for both desktop and mobile viewing.
